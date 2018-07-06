@@ -18,5 +18,6 @@ while True:
 	word=input("Enter Word: ")
 	print(meaning(word))
 	ch =input("Want to continue? ")
-	if ch.lower()=='no' or ch.lower()=='n':
+	if ch.lower()=='yes' or ch.lower()=='y':
+	else:
 		break
