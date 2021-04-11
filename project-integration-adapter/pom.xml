@@ -1,4 +1,4 @@
-	<parent>
+	<parent> 
 		<groupId>com.sap.c4p.rm</groupId>
 		<artifactId>cap-parent</artifactId>
 		<version>0.52.0</version>
