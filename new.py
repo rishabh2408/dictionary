@@ -10,7 +10,7 @@ def meaning(w):
 			return meaning(get_close_matches(w,data.keys())[0])
 		else:
 			return "The word doesnt exist"
-	else:
+	else: 
 		return "The word doesnt exist"
 
 
