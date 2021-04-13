@@ -1,8 +1,8 @@
-column_id : 13792512
-file_path: 'project-integration-adapter/pom.xml'
-mark_stale_pr:
-  pr_stale_days: 1
-  stale_label: stalePR
-  exempt_labels:
+ColumnID: 13792512
+SeconPomFile: 'project-integration-adapter/pom.xml'
+MarkStalePR:
+  StaleDays: 1
+  StaleLabel: stalePR
+  ExemptedLabels:
     - WIP
     - pending
