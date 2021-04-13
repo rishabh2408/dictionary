@@ -11,7 +11,7 @@ def meaning(w):
 		else:
 			return "The word doesnt exist"
 	else:
-		return "The word doesnt exist"cccc
+		return "The word doesnt exist"
 
 
 while True:
