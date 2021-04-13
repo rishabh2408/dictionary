@@ -1,3 +1,4 @@
 column_id : 13792512
 update_second_pom: true
 file_path: 'project-integration-adapter/pom.xml'
+mark_stale_pr: true
