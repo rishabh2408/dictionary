@@ -13,7 +13,7 @@ def meaning(w):
 	else:
 		return "The word doesnt exist"
 
-
+ 
 while True:
 	word=input("Enter Word: ")
 	print(meaning(word))
