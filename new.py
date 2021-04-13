@@ -6,7 +6,7 @@ def meaning(w):
 		return data[w.lower()]
 	elif len(get_close_matches(w,data.keys()))>0:
 		ch =input("Did you mean %s instead: " %get_close_matches(w,data.keys())[0])
-		if ch.lower()=='yes' or ch.lower()=='y':
+		if ch.lower()=='yes' or ch.lower()== 'y':
 			return meaning(get_close_matches(w,data.keys())[0])
 		else:
 			return "The word doesnt exist"
