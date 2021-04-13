@@ -3,6 +3,7 @@ update_second_pom: true
 file_path: 'project-integration-adapter/pom.xml'
 mark_stale_pr: true
 pr_stale_days: 1
+stale_label: stalePR
 exempt_labels:
   - WIP
   - pending
