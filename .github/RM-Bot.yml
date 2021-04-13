@@ -1,5 +1,7 @@
 ColumnID: 13792512
-SeconPomFile: 'project-integration-adapter/pom.xml'
+SeconPomVersionUpdate:
+  File: project-integration-adapter/pom.xml
+  PRPrefix: pull-request for Update Parent POM to
 MarkStalePR:
   StaleDays: 1
   StaleLabel: stalePR
